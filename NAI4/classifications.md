@@ -1,4 +1,4 @@
-# Wheat seed dataset classification
+# Datasets classification
 
 ## Authors
 - Mateusz Pioch (s21331)
